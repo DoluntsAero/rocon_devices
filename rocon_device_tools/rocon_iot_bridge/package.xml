@@ -16,7 +16,7 @@
   <author>Jihoon Lee</author>
 
   <buildtool_depend>catkin</buildtool_depend>
-  <run_depend>python-flask</run_depend>
+  <run_depend>python3-flask</run_depend>
   <run_depend>rospy</run_depend>
 
   <export>
